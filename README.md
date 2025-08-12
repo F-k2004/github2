@@ -1,2 +1,1 @@
-# github2
-just testing githab
+python random_quotes.py
